@@ -1,0 +1,7 @@
+# Build artifacts
+*.o
+minigit
+
+# Test artifacts
+.minigit/
+test.txt
